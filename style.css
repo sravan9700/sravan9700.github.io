@@ -1,0 +1,53 @@
+#container
+{
+  margin: 0px;
+  background-image:url("Images/download.jpg");
+
+}
+#care a
+{
+  color: white;
+    text-decoration: none;
+}
+#care a:hover
+{
+    color: #f1f1f1;
+}
+#advertise{
+	margin-bottom: -20px;
+}
+#carosel
+{
+	margin-top: -20px;
+}
+#nav-bg
+{
+	background:tomato;
+}
+#nav-bg ul li a{
+	color: white;
+}
+#nav-bg a:hover{
+	border-radius:100%;
+	background-color:white;
+	border:5px solid blue;
+	color:green;
+}
+img{
+	  -webkit-transition:transform 10s;
+		 transition: transform 6s;
+	}
+img:hover
+	  {	
+	  -webkit-transform:rotateZ(360deg);
+	  transform:rotateZ(360deg);
+	  }
+#condensed{
+	width: 400px;
+	height: 600px;
+}
+#footer
+{
+	background: black;
+	color: white;
+}
